@@ -1,6 +1,5 @@
 package com.fylora.auth.routes.admin
 
-import com.fylora.auth.data.user.MongoUserDataSource
 import com.fylora.auth.data.user.UserRole
 import com.fylora.auth.requests.admin.AdminRequest
 import com.fylora.auth.requests.admin.AdminSignUpRequest
